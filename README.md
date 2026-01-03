@@ -26,8 +26,8 @@ The repository also includes a specialized module for **Fire Safety Simulation**
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/Sivaastro/lunar_base_simulation.git](https://github.com/Sivaastro/lunar_base_simulation.git)
-    cd lunar_base_simulation
+    git clone https://github.com/sivaastro/Lunar-Base-Simulation.git
+    cd Lunar_Base_Simulation
     ```
 
 2.  **Install dependencies**:
