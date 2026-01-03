@@ -1,0 +1,3 @@
+from neat_fire_simulation import simulate_best_controller
+
+simulate_best_controller()

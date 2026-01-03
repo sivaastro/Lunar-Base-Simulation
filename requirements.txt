@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+openpyxl
+pandas
+scikit-learn
+pygame
+pathfinding
+neat-python
